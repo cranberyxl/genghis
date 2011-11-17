@@ -65,6 +65,7 @@ script_files = FileList[
   'vendor/ace/theme-git_hubby.js',
   'vendor/apprise/apprise-1.5.full.js',
   'vendor/bootstrap/js/bootstrap-twipsy.js',
+  'vendor/hotkeys/jquery.hotkeys.js',
 
   # extensions
   'src/js/extensions.js',
